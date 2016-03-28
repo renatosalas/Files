@@ -1,0 +1,82 @@
+{
+  "Starbucks": {
+    "location": {
+      "lat": 20.73473,
+      "lon": -103.4558182
+    },
+    "description": "Starbucks dentro del campus ITESM GDA",
+    "image": "https://irs0.4sqi.net/img/general/width960/HQb2WCKHLvp6FQJ3KS9yiUl5N90mossyVh_ze_gUWCc.jpg"
+  },
+  "Guich 1": {
+    "location": {
+      "lat": 20.735072,
+      "lon": -103.455637
+    },
+    "description": "Guich en profesional",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/180629_177243452318860_5511714_n.jpg?_nc_eui=ARg7LIz7K4IGMxc7PVavDJbphp7QYGU-tS6KJEIPNGq8wZOEkOWDug&oh=fbfe7b12c5e462fed1ee69b425592ae0&oe=577D9274"
+  },
+  "Yum Yum 1": {
+    "location": {
+      "lat": 20.735443,
+      "lon": -103.455561
+    },
+    "description": "Yum Yum en arquitectura",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1385998_562204003833903_1408669562_n.jpg?_nc_eui=ARinOEQsBrHpDx4XssiFvKpPlhSyGBrADEJsCzwUnGOlf7urvIIfIQ&oh=c68d3b7504d241058aaa9b7ea548e4d4&oe=5776A59E"
+  },
+  "Subway": {
+    "location": {
+      "lat": 20.734542,
+      "lon": -103.457626
+    },
+    "description": "Yum Yum en arquitectura",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1385998_562204003833903_1408669562_n.jpg?_nc_eui=ARinOEQsBrHpDx4XssiFvKpPlhSyGBrADEJsCzwUnGOlf7urvIIfIQ&oh=c68d3b7504d241058aaa9b7ea548e4d4&oe=5776A59E"
+  },
+  "La Selva": {
+    "location": {
+      "lat": 20.735588,
+      "lon": -103.455545
+    },
+    "description": "Yum Yum en arquitectura",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1385998_562204003833903_1408669562_n.jpg?_nc_eui=ARinOEQsBrHpDx4XssiFvKpPlhSyGBrADEJsCzwUnGOlf7urvIIfIQ&oh=c68d3b7504d241058aaa9b7ea548e4d4&oe=5776A59E"
+  },
+  "Juvie Jus": {
+    "location": {
+      "lat": 20.734653,
+      "lon": -103.457606
+    },
+    "description": "Yum Yum en arquitectura",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1385998_562204003833903_1408669562_n.jpg?_nc_eui=ARinOEQsBrHpDx4XssiFvKpPlhSyGBrADEJsCzwUnGOlf7urvIIfIQ&oh=c68d3b7504d241058aaa9b7ea548e4d4&oe=5776A59E"
+  },
+  "Yum Yum 2": {
+    "location": {
+      "lat": 20.734452,
+      "lon": -103.457642
+    },
+    "description": "Yum Yum en arquitectura",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1385998_562204003833903_1408669562_n.jpg?_nc_eui=ARinOEQsBrHpDx4XssiFvKpPlhSyGBrADEJsCzwUnGOlf7urvIIfIQ&oh=c68d3b7504d241058aaa9b7ea548e4d4&oe=5776A59E"
+  },
+  "Cafeteria": {
+    "location": {
+      "lat": 20.7335602,
+      "lon": -103.4552572
+    },
+    "description": "Yum Yum en arquitectura",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1385998_562204003833903_1408669562_n.jpg?_nc_eui=ARinOEQsBrHpDx4XssiFvKpPlhSyGBrADEJsCzwUnGOlf7urvIIfIQ&oh=c68d3b7504d241058aaa9b7ea548e4d4&oe=5776A59E"
+  },
+  "Oxxo": {
+    "location": {
+      "lat": 20.733983,
+      "lon": -103.456521
+    },
+    "description": "Yum Yum en arquitectura",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1385998_562204003833903_1408669562_n.jpg?_nc_eui=ARinOEQsBrHpDx4XssiFvKpPlhSyGBrADEJsCzwUnGOlf7urvIIfIQ&oh=c68d3b7504d241058aaa9b7ea548e4d4&oe=5776A59E"
+  },
+  "Guich 2": {
+    "location": {
+      "lat": 20.734715,
+      "lon": -103.452758
+    },
+    "description": "Yum Yum en arquitectura",
+    "image": "https://scontent-dfw1-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/1385998_562204003833903_1408669562_n.jpg?_nc_eui=ARinOEQsBrHpDx4XssiFvKpPlhSyGBrADEJsCzwUnGOlf7urvIIfIQ&oh=c68d3b7504d241058aaa9b7ea548e4d4&oe=5776A59E"
+  }
+}
